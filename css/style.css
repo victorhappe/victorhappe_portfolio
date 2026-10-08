@@ -1289,3 +1289,14 @@ footer h2 {
 .project-card .case-link {
   pointer-events: none;
 }
+
+/* A New Suit - black comic card */
+.project-card.project-black {
+  border-color: #171717;
+}
+
+/* Black accent at the top of the card */
+.project-card.project-black .project-topline {
+  background-color: #171717;
+  color: #fff;
+}
